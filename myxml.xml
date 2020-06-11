@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<data>
+    <number name="1.">
+        <element>2</element>
+        <operation>  +</operation>
+        <elem>6</elem>
+        <op>=</op>
+        <res>8</res>
+    </number>
+    <number name="2.">
+        <element>8</element>
+        <operation>  -</operation>
+        <elem>6</elem>
+        <op>=</op>
+        <res>2</res>
+    </number>
+    <number name="3.">
+        <element>3</element>
+        <operation>  *</operation>
+        <elem>4</elem>
+        <op>=</op>
+        <res>12</res>
+    </number>
+    <number name="4.">
+        <element>8</element>
+        <operation>div</operation>
+        <elem>4</elem>
+        <op>=</op>
+        <res>2</res>
+    </number>
+</data>
